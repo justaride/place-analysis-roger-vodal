@@ -1,5 +1,4 @@
 {
-  "eiendomId": "thorvald-meyers-gate-46",
   "actors": [
     {
       "rank": "#1",
@@ -7,13 +6,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 35",
       "kommune": "Oslo",
-      "omsetning": 87.0,
-      "kjedeProsent": "0.2",
-      "yoyVekst": 219767503.0,
-      "ansatteLokalt": 5,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 87,
+      "kjedeProsent": "0.3%",
+      "yoyVekst": 0.2,
+      "ansatteLokalt": 21,
+      "ansatteKjede": 9767,
+      "kjedeLokasjoner": 503,
+      "markedsandel": 5.24
     },
     {
       "rank": "#2",
@@ -21,13 +20,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "NORDRE GATE 16",
       "kommune": "Oslo",
-      "omsetning": 73.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 133363350.0,
-      "ansatteLokalt": 4,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 73,
+      "kjedeProsent": "0.4%",
+      "yoyVekst": -5.0,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 3363,
+      "kjedeLokasjoner": 350,
+      "markedsandel": 4.41
     },
     {
       "rank": "#3",
@@ -35,13 +34,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "MARKVEIEN 35 B",
       "kommune": "Oslo",
-      "omsetning": 69.0,
-      "kjedeProsent": "7",
-      "yoyVekst": 1814292725.0,
-      "ansatteLokalt": 4,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 69,
+      "kjedeProsent": "0.1%",
+      "yoyVekst": 7.0,
+      "ansatteLokalt": 18,
+      "ansatteKjede": 14292,
+      "kjedeLokasjoner": 725,
+      "markedsandel": 4.17
     },
     {
       "rank": "#4",
@@ -49,13 +48,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 35",
       "kommune": "Oslo",
-      "omsetning": 58.0,
-      "kjedeProsent": "0.3",
-      "yoyVekst": 55537983.0,
-      "ansatteLokalt": 3,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 58,
+      "kjedeProsent": "2%",
+      "yoyVekst": 0.3,
+      "ansatteLokalt": 55,
+      "ansatteKjede": 5379,
+      "kjedeLokasjoner": 83,
+      "markedsandel": 3.49
     },
     {
       "rank": "#5",
@@ -63,13 +62,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "NORDRE GATE 2",
       "kommune": "Oslo",
-      "omsetning": 56.0,
-      "kjedeProsent": "7",
-      "yoyVekst": 90721.0,
-      "ansatteLokalt": 3,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 56,
+      "kjedeProsent": null,
+      "yoyVekst": -7.0,
+      "ansatteLokalt": 90,
+      "ansatteKjede": 72,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 3.38
     },
     {
       "rank": "#6",
@@ -77,13 +76,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "THORVALD MEYERS GATE 49",
       "kommune": "Oslo",
-      "omsetning": 50.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 3025214.0,
-      "ansatteLokalt": 3,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 50,
+      "kjedeProsent": "21%",
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 30,
+      "ansatteKjede": 252,
+      "kjedeLokasjoner": 14,
+      "markedsandel": 3.01
     },
     {
       "rank": "#7",
@@ -91,13 +90,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 38",
       "kommune": "Oslo",
-      "omsetning": 43.0,
-      "kjedeProsent": "20",
-      "yoyVekst": 222770102.0,
-      "ansatteLokalt": 2,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 43,
+      "kjedeProsent": "0.9%",
+      "yoyVekst": 20.0,
+      "ansatteLokalt": 22,
+      "ansatteKjede": 2770,
+      "kjedeLokasjoner": 102,
+      "markedsandel": 2.56
     },
     {
       "rank": "#8",
@@ -105,13 +104,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "MARKVEIEN 55",
       "kommune": "Oslo",
-      "omsetning": 40.0,
-      "kjedeProsent": "53",
-      "yoyVekst": 27453.0,
-      "ansatteLokalt": 2,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 40,
+      "kjedeProsent": "110%",
+      "yoyVekst": 53.0,
+      "ansatteLokalt": 27,
+      "ansatteKjede": 45,
+      "kjedeLokasjoner": 3,
+      "markedsandel": 2.43
     },
     {
       "rank": "#9",
@@ -119,13 +118,13 @@
       "type": "Handel / Annen handel",
       "adresse": "MARKVEIEN 56",
       "kommune": "Oslo",
-      "omsetning": 38.0,
-      "kjedeProsent": "45",
-      "yoyVekst": 17161.0,
-      "ansatteLokalt": 2,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 38,
+      "kjedeProsent": null,
+      "yoyVekst": 45.0,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 16,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 2.3
     },
     {
       "rank": "#10",
@@ -133,13 +132,13 @@
       "type": "Tjenester / Treningssentre",
       "adresse": "ØSTRE AKER VEI 17",
       "kommune": "Oslo",
-      "omsetning": 36.0,
-      "kjedeProsent": "12",
-      "yoyVekst": 12111.0,
-      "ansatteLokalt": 2,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 36,
+      "kjedeProsent": null,
+      "yoyVekst": 12.0,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 11,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 2.17
     },
     {
       "rank": "#11",
@@ -147,13 +146,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 8",
       "kommune": "Oslo",
-      "omsetning": 34.0,
-      "kjedeProsent": "8",
-      "yoyVekst": 29933.0,
-      "ansatteLokalt": 2,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 34,
+      "kjedeProsent": "35%",
+      "yoyVekst": -8.0,
+      "ansatteLokalt": 29,
+      "ansatteKjede": 93,
+      "kjedeLokasjoner": 3,
+      "markedsandel": 2.07
     },
     {
       "rank": "#12",
@@ -161,13 +160,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 75",
       "kommune": "Oslo",
-      "omsetning": 33.0,
-      "kjedeProsent": "1",
-      "yoyVekst": 213016230.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 33,
+      "kjedeProsent": "0.5%",
+      "yoyVekst": -1.0,
+      "ansatteLokalt": 21,
+      "ansatteKjede": 3016,
+      "kjedeLokasjoner": 230,
+      "markedsandel": 1.96
     },
     {
       "rank": "#13",
@@ -175,13 +174,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "OLAF RYES PLASS 11",
       "kommune": "Oslo",
-      "omsetning": 31.0,
-      "kjedeProsent": "15",
-      "yoyVekst": 67691.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 31,
+      "kjedeProsent": null,
+      "yoyVekst": 15.0,
+      "ansatteLokalt": 67,
+      "ansatteKjede": 69,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.89
     },
     {
       "rank": "#14",
@@ -189,13 +188,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 38",
       "kommune": "Oslo",
-      "omsetning": 27.0,
-      "kjedeProsent": "12",
-      "yoyVekst": 14845.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 27,
+      "kjedeProsent": "23%",
+      "yoyVekst": 12.0,
+      "ansatteLokalt": 14,
+      "ansatteKjede": 84,
+      "kjedeLokasjoner": 5,
+      "markedsandel": 1.64
     },
     {
       "rank": "#15",
@@ -203,13 +202,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "HELGESENS GATE 14",
       "kommune": "Oslo",
-      "omsetning": 22.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 30521.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 22,
+      "kjedeProsent": null,
+      "yoyVekst": 5.0,
+      "ansatteLokalt": 30,
+      "ansatteKjede": 52,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.35
     },
     {
       "rank": "#16",
@@ -217,13 +216,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "THORVALD MEYERS GATE 55",
       "kommune": "Oslo",
-      "omsetning": 21.0,
-      "kjedeProsent": "31",
-      "yoyVekst": 131314159.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 21,
+      "kjedeProsent": "1%",
+      "yoyVekst": 31.0,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 1314,
+      "kjedeLokasjoner": 159,
+      "markedsandel": 1.25
     },
     {
       "rank": "#17",
@@ -231,13 +230,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 89",
       "kommune": "Oslo",
-      "omsetning": 20.0,
-      "kjedeProsent": "0.7",
-      "yoyVekst": 16271.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 20,
+      "kjedeProsent": null,
+      "yoyVekst": -0.7,
+      "ansatteLokalt": 16,
+      "ansatteKjede": 27,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.2
     },
     {
       "rank": "#18",
@@ -245,13 +244,13 @@
       "type": "Handel / Annen handel",
       "adresse": "SOFIENBERGGATA 6",
       "kommune": "Oslo",
-      "omsetning": 20.0,
-      "kjedeProsent": "10",
-      "yoyVekst": 81534156.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 20,
+      "kjedeProsent": "0.4%",
+      "yoyVekst": -10.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 1534,
+      "kjedeLokasjoner": 156,
+      "markedsandel": 1.2
     },
     {
       "rank": "#19",
@@ -259,13 +258,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "NORDRE GATE 22 A",
       "kommune": "Oslo",
-      "omsetning": 19.0,
-      "kjedeProsent": "62",
-      "yoyVekst": 1861.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 19,
+      "kjedeProsent": null,
+      "yoyVekst": 62.0,
+      "ansatteLokalt": 18,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.12
     },
     {
       "rank": "#20",
@@ -273,13 +272,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "PETER MØLLERS VEI 2 B",
       "kommune": "Oslo",
-      "omsetning": 19.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 53016230.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 19,
+      "kjedeProsent": "0.3%",
+      "yoyVekst": 3.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 3016,
+      "kjedeLokasjoner": 230,
+      "markedsandel": 1.15
     },
     {
       "rank": "#21",
@@ -287,13 +286,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 83",
       "kommune": "Oslo",
-      "omsetning": 19.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 1110110.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 19,
+      "kjedeProsent": "13%",
+      "yoyVekst": 13.0,
+      "ansatteLokalt": 11,
+      "ansatteKjede": 101,
+      "kjedeLokasjoner": 10,
+      "markedsandel": 1.16
     },
     {
       "rank": "#22",
@@ -301,13 +300,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "THORVALD MEYERS GATE 41",
       "kommune": "Oslo",
-      "omsetning": 18.0,
-      "kjedeProsent": "2",
-      "yoyVekst": 8661115.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 18,
+      "kjedeProsent": "2%",
+      "yoyVekst": 2.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 661,
+      "kjedeLokasjoner": 115,
+      "markedsandel": 1.08
     },
     {
       "rank": "#23",
@@ -315,13 +314,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "SEILDUKSGATA 17",
       "kommune": "Oslo",
-      "omsetning": 18.0,
-      "kjedeProsent": "7",
-      "yoyVekst": 501939.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 18,
+      "kjedeProsent": "15%",
+      "yoyVekst": -7.0,
+      "ansatteLokalt": 50,
+      "ansatteKjede": 193,
+      "kjedeLokasjoner": 9,
+      "markedsandel": 1.1
     },
     {
       "rank": "#24",
@@ -329,13 +328,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "THORVALD MEYERS GATE 30",
       "kommune": "Oslo",
-      "omsetning": 18.0,
-      "kjedeProsent": "10",
-      "yoyVekst": 29191.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 18,
+      "kjedeProsent": null,
+      "yoyVekst": 10.0,
+      "ansatteLokalt": 29,
+      "ansatteKjede": 19,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.11
     },
     {
       "rank": "#25",
@@ -343,13 +342,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 36",
       "kommune": "Oslo",
-      "omsetning": 17.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 14251.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 17,
+      "kjedeProsent": null,
+      "yoyVekst": 13.0,
+      "ansatteLokalt": 14,
+      "ansatteKjede": 25,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 1.0
     },
     {
       "rank": "#26",
@@ -357,13 +356,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "SEILDUKSGATA 19",
       "kommune": "Oslo",
-      "omsetning": 17.0,
-      "kjedeProsent": "59",
-      "yoyVekst": 74754461.0,
-      "ansatteLokalt": 1,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 17,
+      "kjedeProsent": "0.2%",
+      "yoyVekst": 59.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 4754,
+      "kjedeLokasjoner": 461,
+      "markedsandel": 1.01
     },
     {
       "rank": "#27",
@@ -371,13 +370,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 12",
       "kommune": "Oslo",
-      "omsetning": 16.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 33291.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 16,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 33,
+      "ansatteKjede": 29,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.96
     },
     {
       "rank": "#28",
@@ -385,13 +384,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "SOFIENBERGGATA 17",
       "kommune": "Oslo",
-      "omsetning": 15.0,
-      "kjedeProsent": "411",
-      "yoyVekst": 17101.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 15,
+      "kjedeProsent": null,
+      "yoyVekst": 411.0,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 10,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.88
     },
     {
       "rank": "#29",
@@ -399,13 +398,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "THORVALD MEYERS GATE 49",
       "kommune": "Oslo",
-      "omsetning": 15.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 2225214.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 15,
+      "kjedeProsent": "6%",
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 22,
+      "ansatteKjede": 252,
+      "kjedeLokasjoner": 14,
+      "markedsandel": 0.9
     },
     {
       "rank": "#30",
@@ -413,13 +412,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "HELGESENS GATE 16 A",
       "kommune": "Oslo",
-      "omsetning": 15.0,
-      "kjedeProsent": "9",
-      "yoyVekst": 10111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 15,
+      "kjedeProsent": null,
+      "yoyVekst": 9.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 11,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.92
     },
     {
       "rank": "#31",
@@ -427,13 +426,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 9",
       "kommune": "Oslo",
-      "omsetning": 14.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 20251.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 14,
+      "kjedeProsent": null,
+      "yoyVekst": -5.0,
+      "ansatteLokalt": 20,
+      "ansatteKjede": 25,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.82
     },
     {
       "rank": "#32",
@@ -441,13 +440,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 56",
       "kommune": "Oslo",
-      "omsetning": 14.0,
-      "kjedeProsent": "1",
-      "yoyVekst": 21251.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 14,
+      "kjedeProsent": null,
+      "yoyVekst": 1.0,
+      "ansatteLokalt": 21,
+      "ansatteKjede": 25,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.82
     },
     {
       "rank": "#33",
@@ -455,13 +454,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "AKERSHUSSTRANDA 25",
       "kommune": "Oslo",
-      "omsetning": 14.0,
+      "omsetning": 14,
       "kjedeProsent": null,
-      "yoyVekst": 1351.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.82
     },
     {
       "rank": "#34",
@@ -469,13 +468,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "THORVALD MEYERS GATE 33 A",
       "kommune": "Oslo",
-      "omsetning": 14.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 461.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 14,
+      "kjedeProsent": null,
+      "yoyVekst": -3.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.83
     },
     {
       "rank": "#35",
@@ -483,13 +482,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "NORDRE GATE 20",
       "kommune": "Oslo",
-      "omsetning": 13.0,
-      "kjedeProsent": "5475",
-      "yoyVekst": 11111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 13,
+      "kjedeProsent": null,
+      "yoyVekst": 5475.0,
+      "ansatteLokalt": 11,
+      "ansatteKjede": 11,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.78
     },
     {
       "rank": "#36",
@@ -497,13 +496,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "SOFIENBERGGATA 3 E",
       "kommune": "Oslo",
-      "omsetning": 12.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 1.0,
+      "omsetning": 12,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.7
     },
     {
       "rank": "#37",
@@ -511,13 +510,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 10",
       "kommune": "Oslo",
-      "omsetning": 12.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 16221.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 12,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 16,
+      "ansatteKjede": 22,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.71
     },
     {
       "rank": "#38",
@@ -525,13 +524,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 61",
       "kommune": "Oslo",
-      "omsetning": 11.0,
+      "omsetning": 11,
       "kjedeProsent": null,
-      "yoyVekst": 33331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 33,
+      "ansatteKjede": 33,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.63
     },
     {
       "rank": "#39",
@@ -539,13 +538,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "KORSGATA 24",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "6",
-      "yoyVekst": 830322.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": "4%",
+      "yoyVekst": -6.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 303,
+      "kjedeLokasjoner": 22,
+      "markedsandel": 0.64
     },
     {
       "rank": "#40",
@@ -553,13 +552,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "TORVBAKKGATA 12",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "11",
-      "yoyVekst": 23241.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": null,
+      "yoyVekst": -11.0,
+      "ansatteLokalt": 23,
+      "ansatteKjede": 24,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.65
     },
     {
       "rank": "#41",
@@ -567,13 +566,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "THORVALD MEYERS GATE 72",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "18",
-      "yoyVekst": 951.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": null,
+      "yoyVekst": 18.0,
+      "ansatteLokalt": 9,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.65
     },
     {
       "rank": "#42",
@@ -581,13 +580,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 76 B",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 21211.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": null,
+      "yoyVekst": -3.0,
+      "ansatteLokalt": 21,
+      "ansatteKjede": 21,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.65
     },
     {
       "rank": "#43",
@@ -595,13 +594,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "THORVALD MEYERS GATE 54",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "10",
-      "yoyVekst": 7307.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": "32%",
+      "yoyVekst": -10.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 30,
+      "kjedeLokasjoner": 7,
+      "markedsandel": 0.66
     },
     {
       "rank": "#44",
@@ -609,13 +608,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 30 B",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "9",
-      "yoyVekst": 17201.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": null,
+      "yoyVekst": 9.0,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 20,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.66
     },
     {
       "rank": "#45",
@@ -623,13 +622,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "MARKVEIEN 57",
       "kommune": "Oslo",
-      "omsetning": 11.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 12151.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 11,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 15,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.68
     },
     {
       "rank": "#46",
@@ -637,13 +636,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "MARKVEIEN 50",
       "kommune": "Oslo",
-      "omsetning": 10.0,
-      "kjedeProsent": "6",
-      "yoyVekst": 14151.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 10,
+      "kjedeProsent": null,
+      "yoyVekst": 6.0,
+      "ansatteLokalt": 14,
+      "ansatteKjede": 15,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.59
     },
     {
       "rank": "#47",
@@ -651,13 +650,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OSLO",
       "kommune": "Oslo",
-      "omsetning": 10.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 20161.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 10,
+      "kjedeProsent": null,
+      "yoyVekst": 13.0,
+      "ansatteLokalt": 20,
+      "ansatteKjede": 16,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.6
     },
     {
       "rank": "#48",
@@ -665,13 +664,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "LILLEAKERVEIEN 10",
       "kommune": "Oslo",
-      "omsetning": 10.0,
+      "omsetning": 10,
       "kjedeProsent": null,
-      "yoyVekst": 1261.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.6
     },
     {
       "rank": "#49",
@@ -679,13 +678,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 42",
       "kommune": "Oslo",
-      "omsetning": 10.0,
-      "kjedeProsent": "149",
-      "yoyVekst": 191462138.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 10,
+      "kjedeProsent": "2%",
+      "yoyVekst": 149.0,
+      "ansatteLokalt": 19,
+      "ansatteKjede": 1462,
+      "kjedeLokasjoner": 138,
+      "markedsandel": 0.61
     },
     {
       "rank": "#50",
@@ -693,13 +692,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "STOKKAVEIEN 61 B",
       "kommune": "Oslo",
-      "omsetning": 10.0,
+      "omsetning": 10,
       "kjedeProsent": null,
-      "yoyVekst": 1261.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.62
     },
     {
       "rank": "#51",
@@ -707,13 +706,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "MARKVEIEN 44",
       "kommune": "Oslo",
-      "omsetning": 10.0,
-      "kjedeProsent": "149",
-      "yoyVekst": 61600180.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 10,
+      "kjedeProsent": "0.7%",
+      "yoyVekst": 149.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 1600,
+      "kjedeLokasjoner": 180,
+      "markedsandel": 0.62
     },
     {
       "rank": "#52",
@@ -721,13 +720,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "STOLMAKERGATA 21",
       "kommune": "Oslo",
-      "omsetning": 10.0,
-      "kjedeProsent": "6",
-      "yoyVekst": 10162781.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 10,
+      "kjedeProsent": "0.4%",
+      "yoyVekst": 6.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 1627,
+      "kjedeLokasjoner": 81,
+      "markedsandel": 0.62
     },
     {
       "rank": "#53",
@@ -735,13 +734,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "NORDRE GATE 24",
       "kommune": "Oslo",
-      "omsetning": 9.0,
+      "omsetning": 9,
       "kjedeProsent": null,
-      "yoyVekst": 1.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.53
     },
     {
       "rank": "#54",
@@ -749,13 +748,13 @@
       "type": "Handel / Annen handel",
       "adresse": "MARKVEIEN 51 A",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "8",
-      "yoyVekst": 619029.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": "2%",
+      "yoyVekst": 8.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 190,
+      "kjedeLokasjoner": 29,
+      "markedsandel": 0.54
     },
     {
       "rank": "#55",
@@ -763,13 +762,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 78 A",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "30",
-      "yoyVekst": 13131.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": null,
+      "yoyVekst": 30.0,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 13,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.54
     },
     {
       "rank": "#56",
@@ -777,13 +776,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "THORVALD MEYERS GATE 63",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "32",
-      "yoyVekst": 6567.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": "21%",
+      "yoyVekst": 32.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 56,
+      "kjedeLokasjoner": 7,
+      "markedsandel": 0.54
     },
     {
       "rank": "#57",
@@ -791,13 +790,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 78 C",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "4",
-      "yoyVekst": 851.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": null,
+      "yoyVekst": -4.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.55
     },
     {
       "rank": "#58",
@@ -805,13 +804,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "MARKVEIEN 35",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 17101.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": null,
+      "yoyVekst": 3.0,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 10,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.55
     },
     {
       "rank": "#59",
@@ -819,13 +818,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 4 A",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 70551.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 70,
+      "ansatteKjede": 55,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.56
     },
     {
       "rank": "#60",
@@ -833,13 +832,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "TOFTES GATE 19 B",
       "kommune": "Oslo",
-      "omsetning": 9.0,
-      "kjedeProsent": "31",
-      "yoyVekst": 1871.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 9,
+      "kjedeProsent": null,
+      "yoyVekst": 31.0,
+      "ansatteLokalt": 18,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.57
     },
     {
       "rank": "#61",
@@ -847,13 +846,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "MARKVEIEN 53 A",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "20",
-      "yoyVekst": 8468.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": "34%",
+      "yoyVekst": 20.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 46,
+      "kjedeLokasjoner": 8,
+      "markedsandel": 0.47
     },
     {
       "rank": "#62",
@@ -861,13 +860,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "OLAF RYES PLASS 5 A",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "7",
-      "yoyVekst": 10101.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": null,
+      "yoyVekst": 7.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 10,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.48
     },
     {
       "rank": "#63",
@@ -875,13 +874,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "NORDRE GATE 18",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 1394066.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": "2%",
+      "yoyVekst": 13.0,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 940,
+      "kjedeLokasjoner": 66,
+      "markedsandel": 0.48
     },
     {
       "rank": "#64",
@@ -889,13 +888,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "THORVALD MEYERS GATE 55",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 1052047.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": "2%",
+      "yoyVekst": -13.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 520,
+      "kjedeLokasjoner": 47,
+      "markedsandel": 0.48
     },
     {
       "rank": "#65",
@@ -903,13 +902,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 45",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "11",
-      "yoyVekst": 881.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": null,
+      "yoyVekst": -11.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.49
     },
     {
       "rank": "#66",
@@ -917,13 +916,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 70 A",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "10",
-      "yoyVekst": 17171.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": null,
+      "yoyVekst": 10.0,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 17,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.49
     },
     {
       "rank": "#67",
@@ -931,13 +930,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "HELGESENS GATE 44",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "0.6",
-      "yoyVekst": 17151.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": null,
+      "yoyVekst": -0.6,
+      "ansatteLokalt": 17,
+      "ansatteKjede": 15,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.49
     },
     {
       "rank": "#68",
@@ -945,13 +944,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "KARLSTADGATA 17",
       "kommune": "Oslo",
-      "omsetning": 8.0,
-      "kjedeProsent": "12",
-      "yoyVekst": 15181.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 8,
+      "kjedeProsent": null,
+      "yoyVekst": -12.0,
+      "ansatteLokalt": 15,
+      "ansatteKjede": 18,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.5
     },
     {
       "rank": "#69",
@@ -959,13 +958,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "KIRKEGÅRDSGATA 7 A",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "11",
-      "yoyVekst": 1269.0,
+      "omsetning": 7,
+      "kjedeProsent": "6%",
+      "yoyVekst": -11.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 126,
+      "kjedeLokasjoner": 9,
+      "markedsandel": 0.39
     },
     {
       "rank": "#70",
@@ -973,13 +972,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "KØBENHAVNGATA 2",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "0.4",
-      "yoyVekst": 18341.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": -0.4,
+      "ansatteLokalt": 18,
+      "ansatteKjede": 34,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.4
     },
     {
       "rank": "#71",
@@ -987,13 +986,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "THORVALD MEYERS GATE 33",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "11",
-      "yoyVekst": 7111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": 11.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 11,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.4
     },
     {
       "rank": "#72",
@@ -1001,13 +1000,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 51",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "26",
-      "yoyVekst": 551375.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": "1%",
+      "yoyVekst": 26.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 513,
+      "kjedeLokasjoner": 75,
+      "markedsandel": 0.4
     },
     {
       "rank": "#73",
@@ -1015,13 +1014,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "TOFTES GATE 52",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "16",
-      "yoyVekst": 881.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": 16.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.41
     },
     {
       "rank": "#74",
@@ -1029,13 +1028,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 71",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "203",
-      "yoyVekst": 131462138.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": "1%",
+      "yoyVekst": 203.0,
+      "ansatteLokalt": 13,
+      "ansatteKjede": 1462,
+      "kjedeLokasjoner": 138,
+      "markedsandel": 0.42
     },
     {
       "rank": "#75",
@@ -1043,13 +1042,13 @@
       "type": "Handel / Annen handel",
       "adresse": "MARKVEIEN 56",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "2",
-      "yoyVekst": 961.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": -2.0,
+      "ansatteLokalt": 9,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.43
     },
     {
       "rank": "#76",
@@ -1057,13 +1056,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 32 A",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "16",
-      "yoyVekst": 16141.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": 16.0,
+      "ansatteLokalt": 16,
+      "ansatteKjede": 14,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.44
     },
     {
       "rank": "#77",
@@ -1071,13 +1070,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 33 C",
       "kommune": "Oslo",
-      "omsetning": 7.0,
-      "kjedeProsent": "67",
-      "yoyVekst": 671.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 7,
+      "kjedeProsent": null,
+      "yoyVekst": 67.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.44
     },
     {
       "rank": "#78",
@@ -1085,13 +1084,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 42 B",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "9",
-      "yoyVekst": 58813.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "6%",
+      "yoyVekst": 9.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 88,
+      "kjedeLokasjoner": 13,
+      "markedsandel": 0.33
     },
     {
       "rank": "#79",
@@ -1099,13 +1098,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "MARKVEIEN 54",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "15",
-      "yoyVekst": 881.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": null,
+      "yoyVekst": 15.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.35
     },
     {
       "rank": "#80",
@@ -1113,13 +1112,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "OLAF RYES PLASS 6",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "31",
-      "yoyVekst": 917120.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "5%",
+      "yoyVekst": 31.0,
+      "ansatteLokalt": 9,
+      "ansatteKjede": 171,
+      "kjedeLokasjoner": 20,
+      "markedsandel": 0.36
     },
     {
       "rank": "#81",
@@ -1127,13 +1126,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "SCHOUS PLASS 1",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "12",
-      "yoyVekst": 149810.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "14%",
+      "yoyVekst": -12.0,
+      "ansatteLokalt": 14,
+      "ansatteKjede": 98,
+      "kjedeLokasjoner": 10,
+      "markedsandel": 0.36
     },
     {
       "rank": "#82",
@@ -1141,13 +1140,13 @@
       "type": "Handel / Elektrobutikker",
       "adresse": "THORVALD MEYERS GATE 73",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "29",
-      "yoyVekst": 541.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": null,
+      "yoyVekst": 29.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.37
     },
     {
       "rank": "#83",
@@ -1155,13 +1154,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "THORVALD MEYERS GATE 70",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "8",
-      "yoyVekst": 19141.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": null,
+      "yoyVekst": -8.0,
+      "ansatteLokalt": 19,
+      "ansatteKjede": 14,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.37
     },
     {
       "rank": "#84",
@@ -1169,13 +1168,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 46",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "15",
-      "yoyVekst": 6324.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "18%",
+      "yoyVekst": 15.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 32,
+      "kjedeLokasjoner": 4,
+      "markedsandel": 0.38
     },
     {
       "rank": "#85",
@@ -1183,13 +1182,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "MARKVEIEN 42",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "21",
-      "yoyVekst": 562979.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "0.8%",
+      "yoyVekst": 21.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 629,
+      "kjedeLokasjoner": 79,
+      "markedsandel": 0.38
     },
     {
       "rank": "#86",
@@ -1197,13 +1196,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "OLAF RYES PLASS 3",
       "kommune": "Oslo",
-      "omsetning": 6.0,
-      "kjedeProsent": "19",
-      "yoyVekst": 1146134.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 6,
+      "kjedeProsent": "4%",
+      "yoyVekst": -19.0,
+      "ansatteLokalt": 11,
+      "ansatteKjede": 461,
+      "kjedeLokasjoner": 34,
+      "markedsandel": 0.39
     },
     {
       "rank": "#87",
@@ -1211,13 +1210,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 52",
       "kommune": "Oslo",
-      "omsetning": 5.0,
-      "kjedeProsent": "6",
-      "yoyVekst": 541.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 5,
+      "kjedeProsent": null,
+      "yoyVekst": 6.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.27
     },
     {
       "rank": "#88",
@@ -1225,13 +1224,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "KORSGATA 31",
       "kommune": "Oslo",
-      "omsetning": 5.0,
+      "omsetning": 5,
       "kjedeProsent": null,
-      "yoyVekst": 881.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.27
     },
     {
       "rank": "#89",
@@ -1239,13 +1238,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 34",
       "kommune": "Oslo",
-      "omsetning": 5.0,
-      "kjedeProsent": "0.3",
-      "yoyVekst": 1091.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 5,
+      "kjedeProsent": null,
+      "yoyVekst": 0.3,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 9,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.28
     },
     {
       "rank": "#90",
@@ -1253,13 +1252,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "MARKVEIEN 56",
       "kommune": "Oslo",
-      "omsetning": 5.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 431.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 5,
+      "kjedeProsent": null,
+      "yoyVekst": 3.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.29
     },
     {
       "rank": "#91",
@@ -1267,13 +1266,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "SOFIENBERGGATA 6",
       "kommune": "Oslo",
-      "omsetning": 5.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 571.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 5,
+      "kjedeProsent": null,
+      "yoyVekst": 5.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.3
     },
     {
       "rank": "#92",
@@ -1281,13 +1280,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 78 C",
       "kommune": "Oslo",
-      "omsetning": 5.0,
+      "omsetning": 5,
       "kjedeProsent": null,
-      "yoyVekst": 1.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.31
     },
     {
       "rank": "#93",
@@ -1295,13 +1294,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "THORVALD MEYERS GATE 32",
       "kommune": "Oslo",
-      "omsetning": 5.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 14161.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 5,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 14,
+      "ansatteKjede": 16,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.33
     },
     {
       "rank": "#94",
@@ -1309,13 +1308,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "OLAF RYES PLASS 6",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "24",
-      "yoyVekst": 611915.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": "7%",
+      "yoyVekst": 24.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 119,
+      "kjedeLokasjoner": 15,
+      "markedsandel": 0.21
     },
     {
       "rank": "#95",
@@ -1323,13 +1322,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 40 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": null,
-      "yoyVekst": 16310.0,
+      "omsetning": 4,
+      "kjedeProsent": "4%",
+      "yoyVekst": null,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 163,
+      "kjedeLokasjoner": 10,
+      "markedsandel": 0.22
     },
     {
       "rank": "#96",
@@ -1337,13 +1336,13 @@
       "type": "Mat og opplevelser / Pub og bar",
       "adresse": "TOFTES GATE 50 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "14",
-      "yoyVekst": 1291.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 14.0,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 9,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.23
     },
     {
       "rank": "#97",
@@ -1351,13 +1350,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 3 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "22",
-      "yoyVekst": 541.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 22.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.23
     },
     {
       "rank": "#98",
@@ -1365,13 +1364,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 48",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 741.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.23
     },
     {
       "rank": "#99",
@@ -1379,13 +1378,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "KARLSTADGATA 14 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "41",
-      "yoyVekst": 1.0,
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": -41.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.24
     },
     {
       "rank": "#100",
@@ -1393,13 +1392,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "RATHKES GATE 9 C",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "36",
-      "yoyVekst": 1271.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 36.0,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.24
     },
     {
       "rank": "#101",
@@ -1407,13 +1406,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "MARKVEIEN 51 C",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "21",
-      "yoyVekst": 5246.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": "20%",
+      "yoyVekst": 21.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 24,
+      "kjedeLokasjoner": 6,
+      "markedsandel": 0.24
     },
     {
       "rank": "#102",
@@ -1421,13 +1420,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "OLAF RYES PLASS 1",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "28",
-      "yoyVekst": 971.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 28.0,
+      "ansatteLokalt": 9,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.24
     },
     {
       "rank": "#103",
@@ -1435,13 +1434,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "THORVALD MEYERS GATE 37",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "11",
-      "yoyVekst": 5459104.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": "1%",
+      "yoyVekst": 11.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 459,
+      "kjedeLokasjoner": 104,
+      "markedsandel": 0.24
     },
     {
       "rank": "#104",
@@ -1449,13 +1448,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "MARKVEIEN 51 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "14",
-      "yoyVekst": 11.0,
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 14.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.24
     },
     {
       "rank": "#105",
@@ -1463,13 +1462,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "OLAF RYES PLASS 7",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "64",
-      "yoyVekst": 211.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 64.0,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.25
     },
     {
       "rank": "#106",
@@ -1477,13 +1476,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 76 C",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "2",
-      "yoyVekst": 651.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 2.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.26
     },
     {
       "rank": "#107",
@@ -1491,13 +1490,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 83 A",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "8",
-      "yoyVekst": 10151.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": -8.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 15,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.26
     },
     {
       "rank": "#108",
@@ -1505,13 +1504,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "HELGESENS GATE 32",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "1",
-      "yoyVekst": 981.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": -1.0,
+      "ansatteLokalt": 9,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.27
     },
     {
       "rank": "#109",
@@ -1519,13 +1518,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 77",
       "kommune": "Oslo",
-      "omsetning": 4.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 551.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 4,
+      "kjedeProsent": null,
+      "yoyVekst": 5.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.27
     },
     {
       "rank": "#110",
@@ -1533,13 +1532,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "NEDRE GATE 2",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 441.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.16
     },
     {
       "rank": "#111",
@@ -1547,13 +1546,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "OLAF RYES PLASS 11",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "25",
-      "yoyVekst": 761.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -25.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 6,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.16
     },
     {
       "rank": "#112",
@@ -1561,13 +1560,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "MARKVEIEN 33",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "29",
-      "yoyVekst": 1.0,
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -29.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.17
     },
     {
       "rank": "#113",
@@ -1575,13 +1574,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "MARKVEIEN 35 A",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "25",
-      "yoyVekst": 441.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -25.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.17
     },
     {
       "rank": "#114",
@@ -1589,13 +1588,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "MARKVEIEN 61",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "13",
-      "yoyVekst": 12171.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": 13.0,
+      "ansatteLokalt": 12,
+      "ansatteKjede": 17,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.19
     },
     {
       "rank": "#115",
@@ -1603,13 +1602,13 @@
       "type": "Handel / Mat og drikke",
       "adresse": "THORVALD MEYERS GATE 34",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "87",
-      "yoyVekst": 1080465.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": "0.8%",
+      "yoyVekst": -87.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 804,
+      "kjedeLokasjoner": 65,
+      "markedsandel": 0.19
     },
     {
       "rank": "#116",
@@ -1617,13 +1616,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "PAULUS' PLASS 2 A",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "33",
-      "yoyVekst": 731.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": 33.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.19
     },
     {
       "rank": "#117",
@@ -1631,13 +1630,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "SOFIENBERGGATA 6",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -5.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.2
     },
     {
       "rank": "#118",
@@ -1645,13 +1644,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "KORSGATA 22",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "40",
-      "yoyVekst": 482.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": "70%",
+      "yoyVekst": 40.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 8,
+      "kjedeLokasjoner": 2,
+      "markedsandel": 0.2
     },
     {
       "rank": "#119",
@@ -1659,13 +1658,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "SOFIENBERGGATA 2 B",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "5",
-      "yoyVekst": 771.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -5.0,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.2
     },
     {
       "rank": "#120",
@@ -1673,13 +1672,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "THORVALD MEYERS GATE 81",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "2",
-      "yoyVekst": 551.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -2.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 5,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.2
     },
     {
       "rank": "#121",
@@ -1687,13 +1686,13 @@
       "type": "Handel / Annen handel",
       "adresse": "MARKVEIEN 35 A",
       "kommune": "Oslo",
-      "omsetning": 3.0,
-      "kjedeProsent": "25",
-      "yoyVekst": 331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 3,
+      "kjedeProsent": null,
+      "yoyVekst": -25.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.21
     },
     {
       "rank": "#122",
@@ -1701,13 +1700,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "THORVALD MEYERS GATE 47 A",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "3",
-      "yoyVekst": 331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 3.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.09
     },
     {
       "rank": "#123",
@@ -1715,13 +1714,13 @@
       "type": "Tjenester / Profesjoner",
       "adresse": "OLAF RYES PLASS 6",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "28",
-      "yoyVekst": 211.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 28.0,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.09
     },
     {
       "rank": "#124",
@@ -1729,13 +1728,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 50",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "19",
-      "yoyVekst": 8111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": -19.0,
+      "ansatteLokalt": 8,
+      "ansatteKjede": 11,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.1
     },
     {
       "rank": "#125",
@@ -1743,13 +1742,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "MARKVEIEN 52",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "84",
-      "yoyVekst": 521.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 84.0,
+      "ansatteLokalt": 5,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.1
     },
     {
       "rank": "#126",
@@ -1757,13 +1756,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "SCHÆFFERS GATE 10 B",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "747",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 747.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.1
     },
     {
       "rank": "#127",
@@ -1771,13 +1770,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 73 A",
       "kommune": "Oslo",
-      "omsetning": 2.0,
+      "omsetning": 2,
       "kjedeProsent": null,
-      "yoyVekst": 771.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 7,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.1
     },
     {
       "rank": "#128",
@@ -1785,13 +1784,13 @@
       "type": "Handel / Annen handel",
       "adresse": "THORVALD MEYERS GATE 69",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "1177",
-      "yoyVekst": 501.0,
-      "ansatteLokalt": 0,
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 1177.0,
+      "ansatteLokalt": 5,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.1
     },
     {
       "rank": "#129",
@@ -1799,13 +1798,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "SCHOUS PLASS 1",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "0.5",
-      "yoyVekst": 331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 0.5,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.11
     },
     {
       "rank": "#130",
@@ -1813,13 +1812,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "SEILDUKSGATA 9",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "0",
-      "yoyVekst": 3261.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 26,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.11
     },
     {
       "rank": "#131",
@@ -1827,13 +1826,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 68",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "229",
-      "yoyVekst": 211.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 229.0,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.11
     },
     {
       "rank": "#132",
@@ -1841,13 +1840,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "MARKVEIEN 28",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "0.7",
-      "yoyVekst": 331.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": -0.7,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.12
     },
     {
       "rank": "#133",
@@ -1855,13 +1854,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "THORVALD MEYERS GATE 48 A",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "18",
-      "yoyVekst": 471.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": -18.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 7,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.13
     },
     {
       "rank": "#134",
@@ -1869,13 +1868,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "MARKVEIEN 53 A",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "17",
-      "yoyVekst": 35912.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": "6%",
+      "yoyVekst": -17.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 59,
+      "kjedeLokasjoner": 12,
+      "markedsandel": 0.13
     },
     {
       "rank": "#135",
@@ -1883,13 +1882,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "HELGESENS GATE 42 E",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "18",
-      "yoyVekst": 441.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 18.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.13
     },
     {
       "rank": "#136",
@@ -1897,13 +1896,13 @@
       "type": "Handel / Hus og bygg",
       "adresse": "OSLO",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "29",
-      "yoyVekst": 621.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 29.0,
+      "ansatteLokalt": 6,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.14
     },
     {
       "rank": "#137",
@@ -1911,13 +1910,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "NORDRE GATE 20",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "26",
-      "yoyVekst": 11131.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": -26.0,
+      "ansatteLokalt": 11,
+      "ansatteKjede": 13,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.14
     },
     {
       "rank": "#138",
@@ -1925,13 +1924,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "BØLERLIA 59",
       "kommune": "Oslo",
-      "omsetning": 2.0,
-      "kjedeProsent": "20",
-      "yoyVekst": 21.0,
+      "omsetning": 2,
+      "kjedeProsent": null,
+      "yoyVekst": 20.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.14
     },
     {
       "rank": "#139",
@@ -1939,13 +1938,13 @@
       "type": "Mat og opplevelser / Bakeri og kafé",
       "adresse": "MARKVEIEN 46",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "40",
-      "yoyVekst": 25643.0,
+      "omsetning": 1,
+      "kjedeProsent": "0.5%",
+      "yoyVekst": -40.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 256,
+      "kjedeLokasjoner": 43,
+      "markedsandel": 0.06
     },
     {
       "rank": "#140",
@@ -1953,13 +1952,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "THORVALD MEYERS GATE 60",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "84",
-      "yoyVekst": 341.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": -84.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.06
     },
     {
       "rank": "#141",
@@ -1967,13 +1966,13 @@
       "type": "Handel / Annen handel",
       "adresse": "SCHOUS PLASS 7 B",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "28",
-      "yoyVekst": 121.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": -28.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.07
     },
     {
       "rank": "#142",
@@ -1981,13 +1980,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "SCHÆFFERS GATE 1",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "75",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": 75.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.07
     },
     {
       "rank": "#143",
@@ -1995,13 +1994,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "THORVALD MEYERS GATE 36 A",
       "kommune": "Oslo",
-      "omsetning": 1.0,
+      "omsetning": 1,
       "kjedeProsent": null,
-      "yoyVekst": 1.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.07
     },
     {
       "rank": "#144",
@@ -2009,13 +2008,13 @@
       "type": "Mat og opplevelser / Restaurant",
       "adresse": "KORSGATA 25",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "83",
-      "yoyVekst": 401.0,
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": -83.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 40,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.07
     },
     {
       "rank": "#145",
@@ -2023,13 +2022,13 @@
       "type": "Handel / Hjem og interiør",
       "adresse": "MARKVEIEN 35",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "0.2",
-      "yoyVekst": 4151.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": -0.2,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 15,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.08
     },
     {
       "rank": "#146",
@@ -2037,13 +2036,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "OLAF RYES PLASS 6",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "93",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": 93.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.08
     },
     {
       "rank": "#147",
@@ -2051,13 +2050,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "THORVALD MEYERS GATE 53",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "17",
-      "yoyVekst": 19422.0,
+      "omsetning": 1,
+      "kjedeProsent": "0.7%",
+      "yoyVekst": 17.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 194,
+      "kjedeLokasjoner": 22,
+      "markedsandel": 0.08
     },
     {
       "rank": "#148",
@@ -2065,13 +2064,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "GRÜNERS GATE 9 A",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "70",
-      "yoyVekst": 1.0,
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": 70.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.08
     },
     {
       "rank": "#149",
@@ -2079,13 +2078,13 @@
       "type": "Handel / Sport og fritid",
       "adresse": "RATHKES GATE 7 B",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "1069",
-      "yoyVekst": 1.0,
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": 1069.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.09
     },
     {
       "rank": "#150",
@@ -2093,13 +2092,13 @@
       "type": "Tjenester / Skjønnhet og velvære",
       "adresse": "MARKVEIEN 56",
       "kommune": "Oslo",
-      "omsetning": 1.0,
-      "kjedeProsent": "25",
-      "yoyVekst": 311.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": 1,
+      "kjedeProsent": null,
+      "yoyVekst": -25.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.09
     },
     {
       "rank": "#151",
@@ -2108,12 +2107,12 @@
       "adresse": "TRONDHEIMSVEIEN 197 A",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "0",
-      "yoyVekst": 221.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": 0.0,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.06
     },
     {
       "rank": "#152",
@@ -2122,12 +2121,12 @@
       "adresse": "MARKVEIEN 56",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "34",
-      "yoyVekst": 321.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": -34.0,
+      "ansatteLokalt": 3,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.06
     },
     {
       "rank": "#153",
@@ -2135,13 +2134,13 @@
       "type": "Handel / Annen handel",
       "adresse": "THORVALD MEYERS GATE 46",
       "kommune": "Oslo",
-      "omsetning": 9000.9,
-      "kjedeProsent": "32",
-      "yoyVekst": 16913.0,
+      "omsetning": null,
+      "kjedeProsent": "0.9%",
+      "yoyVekst": 32.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 169,
+      "kjedeLokasjoner": 13,
+      "markedsandel": 0.05
     },
     {
       "rank": "#154",
@@ -2150,12 +2149,12 @@
       "adresse": "TEGLVERKSGATA 2",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "29",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": 29.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.05
     },
     {
       "rank": "#155",
@@ -2163,13 +2162,13 @@
       "type": "Mat og opplevelser / Barer",
       "adresse": "THORVALD MEYERS GATE 44",
       "kommune": "Oslo",
-      "omsetning": 8401.0,
-      "kjedeProsent": "74",
-      "yoyVekst": 1017816.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "omsetning": null,
+      "kjedeProsent": "1%",
+      "yoyVekst": -74.0,
+      "ansatteLokalt": 10,
+      "ansatteKjede": 178,
+      "kjedeLokasjoner": 16,
+      "markedsandel": 0.05
     },
     {
       "rank": "#156",
@@ -2179,11 +2178,11 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 91.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 9,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.05
     },
     {
       "rank": "#157",
@@ -2192,12 +2191,12 @@
       "adresse": "HELGESENS GATE 40 A",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "8",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": 8.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.05
     },
     {
       "rank": "#158",
@@ -2207,11 +2206,11 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.05
     },
     {
       "rank": "#159",
@@ -2220,12 +2219,12 @@
       "adresse": "TOFTES GATE 59 A",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "39",
-      "yoyVekst": 241.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": -39.0,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 4,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.05
     },
     {
       "rank": "#160",
@@ -2234,12 +2233,12 @@
       "adresse": "THORVALD MEYERS GATE 33 C",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "7",
-      "yoyVekst": 421.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": 7.0,
+      "ansatteLokalt": 4,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.04
     },
     {
       "rank": "#161",
@@ -2248,12 +2247,12 @@
       "adresse": "THORVALD MEYERS GATE 46",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "21",
-      "yoyVekst": 31.0,
+      "kjedeProsent": null,
+      "yoyVekst": -21.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 3,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.03
     },
     {
       "rank": "#162",
@@ -2263,11 +2262,11 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 1.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.03
     },
     {
       "rank": "#163",
@@ -2276,12 +2275,12 @@
       "adresse": "MARKVEIEN 16 B",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "25",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": -25.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.02
     },
     {
       "rank": "#164",
@@ -2291,11 +2290,11 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 121.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.02
     },
     {
       "rank": "#165",
@@ -2304,12 +2303,12 @@
       "adresse": "MARKVEIEN 42",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "77",
-      "yoyVekst": 111.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeProsent": null,
+      "yoyVekst": -77.0,
+      "ansatteLokalt": 1,
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.02
     },
     {
       "rank": "#166",
@@ -2318,12 +2317,12 @@
       "adresse": "SEILDUKSGATA 5 D",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "70",
-      "yoyVekst": 1.0,
+      "kjedeProsent": null,
+      "yoyVekst": -70.0,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.02
     },
     {
       "rank": "#167",
@@ -2331,13 +2330,13 @@
       "type": "Handel / Klesbutikker",
       "adresse": "MARKVEIEN 35",
       "kommune": "Oslo",
-      "omsetning": 2500.0,
-      "kjedeProsent": "75",
-      "yoyVekst": 111196.0,
+      "omsetning": null,
+      "kjedeProsent": "0.0%",
+      "yoyVekst": -75.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 1111,
+      "kjedeLokasjoner": 96,
+      "markedsandel": 0.02
     },
     {
       "rank": "#168",
@@ -2346,12 +2345,12 @@
       "adresse": "OLAF RYES PLASS 5 A",
       "kommune": "Oslo",
       "omsetning": null,
-      "kjedeProsent": "35",
-      "yoyVekst": 11.0,
+      "kjedeProsent": null,
+      "yoyVekst": -35.0,
       "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "ansatteKjede": 1,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.02
     },
     {
       "rank": "#169",
@@ -2361,11 +2360,11 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 1.0,
+      "yoyVekst": null,
       "ansatteLokalt": 0,
       "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.01
     },
     {
       "rank": "#170",
@@ -2375,35 +2374,98 @@
       "kommune": "Oslo",
       "omsetning": null,
       "kjedeProsent": null,
-      "yoyVekst": 221.0,
-      "ansatteLokalt": 0,
-      "ansatteKjede": 0,
-      "kjedeLokasjoner": 0,
-      "markedsandel": null
+      "yoyVekst": null,
+      "ansatteLokalt": 2,
+      "ansatteKjede": 2,
+      "kjedeLokasjoner": 1,
+      "markedsandel": 0.0
     }
   ],
   "categoryStats": {
-    "Handel / Mat og drikke": 13,
-    "Mat og opplevelser / Restaurant": 57,
-    "Mat og opplevelser / Bakeri og kafé": 10,
-    "Handel / Klesbutikker": 19,
-    "Handel / Sport og fritid": 8,
-    "Handel / Annen handel": 9,
-    "Tjenester / Treningssentre": 1,
-    "Mat og opplevelser / Pub og bar": 9,
-    "Tjenester / Profesjoner": 8,
-    "Handel / Hjem og interiør": 11,
-    "Tjenester / Skjønnhet og velvære": 20,
-    "Handel / Elektrobutikker": 1,
-    "Handel / Hus og bygg": 1,
-    "Tjenester / Andre tjenester": 1,
-    "Mat og opplevelser / Barer": 1,
-    "Handel / Smykker og parfyme": 1
+    "Handel / Mat og drikke": {
+      "count": 13,
+      "totalRevenue": 345,
+      "avgRevenue": 26.53846153846154
+    },
+    "Mat og opplevelser / Restaurant": {
+      "count": 57,
+      "totalRevenue": 580,
+      "avgRevenue": 10.175438596491228
+    },
+    "Mat og opplevelser / Bakeri og kafé": {
+      "count": 10,
+      "totalRevenue": 106,
+      "avgRevenue": 10.6
+    },
+    "Handel / Klesbutikker": {
+      "count": 19,
+      "totalRevenue": 139,
+      "avgRevenue": 7.315789473684211
+    },
+    "Handel / Sport og fritid": {
+      "count": 8,
+      "totalRevenue": 118,
+      "avgRevenue": 14.75
+    },
+    "Handel / Annen handel": {
+      "count": 9,
+      "totalRevenue": 80,
+      "avgRevenue": 8.88888888888889
+    },
+    "Tjenester / Treningssentre": {
+      "count": 1,
+      "totalRevenue": 36,
+      "avgRevenue": 36.0
+    },
+    "Mat og opplevelser / Pub og bar": {
+      "count": 9,
+      "totalRevenue": 93,
+      "avgRevenue": 10.333333333333334
+    },
+    "Tjenester / Profesjoner": {
+      "count": 8,
+      "totalRevenue": 51,
+      "avgRevenue": 6.375
+    },
+    "Handel / Hjem og interiør": {
+      "count": 11,
+      "totalRevenue": 43,
+      "avgRevenue": 3.909090909090909
+    },
+    "Tjenester / Skjønnhet og velvære": {
+      "count": 20,
+      "totalRevenue": 50,
+      "avgRevenue": 2.5
+    },
+    "Handel / Elektrobutikker": {
+      "count": 1,
+      "totalRevenue": 6,
+      "avgRevenue": 6.0
+    },
+    "Handel / Hus og bygg": {
+      "count": 1,
+      "totalRevenue": 2,
+      "avgRevenue": 2.0
+    },
+    "Tjenester / Andre tjenester": {
+      "count": 1,
+      "totalRevenue": 0,
+      "avgRevenue": 0.0
+    },
+    "Mat og opplevelser / Barer": {
+      "count": 1,
+      "totalRevenue": 0,
+      "avgRevenue": 0.0
+    },
+    "Handel / Smykker og parfyme": {
+      "count": 1,
+      "totalRevenue": 0,
+      "avgRevenue": 0.0
+    }
   },
   "metadata": {
     "totalActors": 170,
-    "categories": 16,
-    "generatedDate": "2025-11-11T18:00:00Z",
-    "source": "Place Analysis CSV - /Users/gabrielboen/Downloads/Maya Eiendom/Thorvald Meyersgate 46/Thorvald Meyersgate 46 - Sheet1.csv"
+    "totalCategories": 16,
+    "generatedAt": "2025-11-11T18:01:00.914947Z"
   }
 }
