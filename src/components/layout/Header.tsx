@@ -52,20 +52,9 @@ export default function Header() {
             </Link>
             <span className="text-lg text-gray-400">,</span>
             <span className="text-sm font-light text-gray-500">for</span>
-            <Link
-              href="https://mayaeiendom.no"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center transition-opacity hover:opacity-70"
-            >
-              <Image
-                src="/images/maya-logo.jpg"
-                alt="Maya Eiendom"
-                width={140}
-                height={50}
-                className="h-[40px] w-auto"
-              />
-            </Link>
+            <div className="flex items-center">
+              <span className="text-2xl font-bold text-lokka-primary">Roger Vodal</span>
+            </div>
           </div>
           <Navigation />
         </div>

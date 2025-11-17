@@ -11,12 +11,12 @@ export default function Home() {
         <Container>
           <div className="max-w-3xl">
             <h1 className="mb-6 text-5xl font-bold leading-tight">
-              Place Analysis Løkka
+              Roger Vodal Eiendomsportefølje
             </h1>
             <p className="mb-8 text-xl text-white/90">
-              Omfattende placeanalyser og eiendomsinformasjon for Løkka-området.
-              Utforsk demografi, markedsdata og utviklingstrender for eiendommene
-              i vår gårdeierforening.
+              Omfattende placeanalyser og eiendomsinformasjon for Roger Vodals eiendomsportefølje.
+              Utforsk demografi, markedsdata og utviklingstrender for eiendommer
+              i Oslo.
             </p>
             <div className="flex gap-4">
               <Link href="/eiendommer">
