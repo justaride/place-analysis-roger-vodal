@@ -52,9 +52,18 @@ export default function Header() {
             </Link>
             <span className="text-lg text-gray-400">,</span>
             <span className="text-sm font-light text-gray-500">for</span>
-            <div className="flex items-center">
-              <span className="text-2xl font-bold text-lokka-primary">Roger Vodal</span>
-            </div>
+            <Link
+              href="/"
+              className="flex items-center transition-opacity hover:opacity-70"
+            >
+              <Image
+                src="/images/roger-vodal-logo.png"
+                alt="Roger Folkenborg Vodal"
+                width={180}
+                height={80}
+                className="h-[60px] w-auto"
+              />
+            </Link>
           </div>
           <Navigation />
         </div>
